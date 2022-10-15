@@ -1,5 +1,5 @@
 # Introduction
-I've been using [PiHole](https://github.com/pi-hole/pi-hole) for many years both on a Raspberry Pi and more recently a virtual machine. I have also recently switched to using pfBlockerNG on pfSense, since it allows me to run everything required for internet (E.g. DHCP, DNS_ access on one device. Over time I've seen DNS blocklists come and go, become outdated, or disappear completely. I have decided to put together a list of my recommended blocklists.
+I've been using [PiHole](https://github.com/pi-hole/pi-hole) for many years both on a Raspberry Pi and more recently a virtual machine. I have also recently switched to using pfBlockerNG on pfSense, since it allows me to run everything required for internet (E.g. DHCP, DNS) on one device. Over time I've seen DNS blocklists come and go, become outdated, or disappear completely. I have decided to put together a list of my recommended blocklists.
 
 The goal here isn't just to 'block ads', although they can be very annoying (use uBlock Origin for that), it's more about blocking spyware, unwanted telemetry, porn sites, and most important of all, known sites containing malware. This is not going to protect you 100%, but it's another layer of the onion.
 
