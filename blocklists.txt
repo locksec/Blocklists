@@ -1,5 +1,4 @@
 # Updated: October 14, 2022
-# Curated  by: Ray Heffer (https://rayheffer.com)
 
 # Adblockers
 https://v.firebog.net/hosts/AdguardDNS.txt
